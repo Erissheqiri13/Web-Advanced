@@ -1,0 +1,8 @@
+input:valid{
+    border: 2px solid lime;
+}
+button{
+    background-color: lime;
+    color: white;
+    border-radius: 30px;
+}
